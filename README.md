@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ABOUT THIS PROJECT
+
+This is an react application which shows all information about covid 19.
+It tracks the no. of deaths , no. of recovered people and no. of active cases for every country through an api.
+Its UI is designed through material-ui and css.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
